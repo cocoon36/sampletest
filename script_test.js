@@ -1,0 +1,1 @@
+alert("This is the first time for us to use GitHub at home.");
